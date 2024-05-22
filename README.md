@@ -14,12 +14,12 @@ This repository contains various Blender projects I've worked on, including cube
 
 ## Installation
 To get started with any of the projects in this repository, you'll need to have Blender installed on your machine. You can download the latest version of Blender from the [official website](https://www.blender.org/download/).
-
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img alt="blender" width="160" height="160" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"> </a>
 </p>
 
-<h3 align="left">My Work:</h3>
+<h2 align="left">My Work</h2>
 <img align="center" alt="Coding" width="400" src="cube2.png">
 
